@@ -17,7 +17,7 @@
 
 ---
 ### 🧰 Tech Stack
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,numpy,scikitlearn,pytorch,fastapi,huggingface,langchain,crewai,ollama,groq,docker,aws,qdrant,elasticsearch,mlflow,streamlit&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,numpy,scikitlearn,pytorch,fastapi,huggingface,langchain,ollama,groq,docker,aws,qdrant,elasticsearch,mlflow,streamlit&titles=true)
 
 ---
 
