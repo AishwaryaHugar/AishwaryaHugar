@@ -2,7 +2,7 @@
 
 <img src="./banner.png" width="100%" alt="Aishwarya banner" />
 
-<strong><code>🤖 AI Research Engineer | 🧩 Systems Thinker | 🛠️ Builder </code></strong>
+<strong><code>🤖 AI ML Engineer | 🧩 Systems Thinker | 🛠️ Builder </code></strong>
 
 </div>
 <div align="center">
